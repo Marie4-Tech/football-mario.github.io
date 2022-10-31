@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/football-mario.github.io/static/css/main.db0b20f8.css",
+    "main.js": "/football-mario.github.io/static/js/main.9cbb10ef.js",
+    "static/js/787.28cb0dcd.chunk.js": "/football-mario.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ronaldo700.jpg": "/football-mario.github.io/static/media/ronaldo700.496235cdcbcb4d6098d3.jpg",
+    "static/media/AubaChelsea.jpg": "/football-mario.github.io/static/media/AubaChelsea.7c882319d531cc3130cd.jpg",
+    "static/media/football marioedit.png": "/football-mario.github.io/static/media/football marioedit.fbf292c09e82c61fcaef.png",
+    "static/media/chelsea pulisic.jpg": "/football-mario.github.io/static/media/chelsea pulisic.1ed620784cab1ee9e91f.jpg",
+    "static/media/rubendiaz.jpg": "/football-mario.github.io/static/media/rubendiaz.ff84259bb8c1c59c43f7.jpg",
+    "index.html": "/football-mario.github.io/index.html",
+    "main.db0b20f8.css.map": "/football-mario.github.io/static/css/main.db0b20f8.css.map",
+    "main.9cbb10ef.js.map": "/football-mario.github.io/static/js/main.9cbb10ef.js.map",
+    "787.28cb0dcd.chunk.js.map": "/football-mario.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0b20f8.css",
+    "static/js/main.9cbb10ef.js"
+  ]
+}
