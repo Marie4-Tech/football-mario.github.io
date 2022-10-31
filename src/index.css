@@ -1,13 +1,102 @@
-body {
+/* project 1 styles */
+* {
+  font-family: cursive;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fec804;
+  padding: 5px;
+  height: 110px;
+}
+.headitem1 {
+  display: flex;
+}
+.headitem1 svg {
+  width: 48pxp;
+  min-width: 48px;
+  height: 36px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.headitem1 svg:focus,
+.headitem1 svg:hover {
+  color: white;
+  outline: none;
+}
+.headitem2 {
+  display: flex;
+  padding-left: 40px;
+}
+.headitem3 {
+  display: flex;
+  justify-content: flex-end;
+}
+.headitem3 input[type='text'] {
+  display: flex;
+  flex-grow: 1;
+  width: 200px;
+  max-width: 100%;
+  min-height: 38px;
+  font-size: 1rem;
+  padding: 0.25rem;
+  border-radius: 1.25rem;
+  margin-right: 0.25rem;
+  outline: none;
+  font-family: cursive;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navig {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: navy;
+  padding: 5px;
+  height: 50px;
+}
+.navig1 {
+  color: #fec804;
+  text-decoration: none;
+}
+.navig1:hover {
+  color: white;
+}
+
+.bodywork {
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  place-content: centre;
+}
+.eachNews {
+  display: flex;
+  margin: 10px;
+}
+.newsTitle{
+  display: flex;
+  background-color: #edefee;
+  margin: 5px;
+  text-align: center;
+  width: 300px;
+  padding-top: 50px;
+  
+}
+.removeLine{
+  text-decoration: none;
+  
+}
+
+.footer {
+  background-color: black;
+  align-items: center;
+  place-content: center;
+  justify-content: center;
+  display:grid;
+  place-items: center;
+  width: 100%;
+  height: 120px;
 }
